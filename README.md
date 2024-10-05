@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm passionate about learning and developing scalable software solutions for real-world problems.
+I'm Basilio Lopez and passionate about learning and developing scalable software solutions for real-world problems.
 
 <img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-designs&layout=compact"/>
 <!--
