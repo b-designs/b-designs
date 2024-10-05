@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Basilio Lopez. I am passionate computer science and spend my time learning and developing software.
+I'm Basilio Lopez. I am passionate about computer science and spend my time learning and developing software programs.
 
 <img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-designs&layout=compact"/>
 <!--
