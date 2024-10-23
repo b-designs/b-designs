@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 I'm Basilio Lopez. I am passionate about computer science and spend my time learning and developing software.
-<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-designs&hide=Jupyter%20Notebook,CSS,html&layout=pie&compact&theme=dark"/>
-<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-designs&hide=Jupyter%20Notebook,CSS&layout=compact&theme=dark"/>
+<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-designs&hide=CSS&layout=compact&theme=dark"/>
 <!--
 **b-designs/b-designs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
